@@ -1,2 +1,2 @@
-# Python-Assignment-1
-Assignment 1 Answersheet
+# Python-Assignments
+Assignments
